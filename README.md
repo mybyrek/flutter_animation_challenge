@@ -3,6 +3,10 @@
 ### Note: The latest animation challenge is in the top.
 > Creator: Qani Ajdini
 
+
+## 7. [Gooey tab bar](https://github.com/qani-ajdini/flutter-animation-gooey-tab-bar)
+![Design](https://github.com/qani-ajdini/flutter-animation-gooey-tab-bar/blob/master/docs/inspiration.gif)
+
 ## 6. [Food ordering app](https://github.com/qani-ajdini/flutter-animation-food-ordering-app)
 ![Design](https://github.com/qani-ajdini/flutter-animation-food-ordering-app/blob/master/docs/inspiration.gif)
 
