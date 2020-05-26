@@ -4,13 +4,13 @@
 > Creator: Qani Ajdini
 
 ## 6. [Food ordering app](https://github.com/qani-ajdini/flutter-animation-food-ordering-app)
-![Design](./docs/inspiration.gif)
+![Design](https://github.com/qani-ajdini/flutter-animation-food-ordering-app/blob/master/docs/inspiration.gif)
 
 ## 5. [Groceries shopping app](https://github.com/qani-ajdini/flutter-animation-groceries-shopping)
-![Design](./docs/inspiration.gif)
+![Design](https://github.com/qani-ajdini/flutter-animation-groceries-shopping/blob/master/docs/inspiration.gif)
 
 ## 4. [Travel website](https://github.com/qani-ajdini/flutter-animation-travel-website)
-![Design](../master/readme%20assets/go-egypt.gif)
+![Design](https://github.com/qani-ajdini/flutter-animation-travel-website/blob/master/readme%20assets/go-egypt.gif)
 
 ## 3. [Buy ticket app](https://github.com/qani-ajdini/flutter-animation-buy-ticket)
 ![Design](https://user-images.githubusercontent.com/16286046/56876328-e2647480-6a46-11e9-919e-460ca638d3b4.gif)
