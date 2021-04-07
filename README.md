@@ -1,7 +1,6 @@
 # Flutter Animation Challenge
 
 ### Note: The latest animation challenge is in the top.
-> Creator: Qani Ajdini
 
 ## 8. [Floating bottom bar](https://github.com/qani-ajdini/flutter-animation-floating-bottom-bar)
 ![Design](https://github.com/qani-ajdini/flutter-animation-floating-bottom-bar/blob/master/docs/inspiration.gif)
