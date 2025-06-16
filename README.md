@@ -1,6 +1,5 @@
 # Flutter Animation Challenge
-Feel free to use these in your project.
-Note: The latest animation challenge is in the top.
+Feel free to use these in your project. Note: The latest animation challenge is in the top.
 
 ## 8. [Floating bottom bar](https://github.com/qani-ajdini/flutter-animation-floating-bottom-bar)
 ![Design](https://github.com/qani-ajdini/flutter-animation-floating-bottom-bar/blob/master/docs/inspiration.gif)
