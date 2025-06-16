@@ -1,4 +1,5 @@
 # Flutter Animation Challenge
+Feel free to use these in your project.
 
 ### Note: The latest animation challenge is in the top.
 
